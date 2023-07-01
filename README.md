@@ -10,11 +10,19 @@
 
 - 🌱 I’m currently learning **react native**
 
+- 👯 I’m looking to collaborate on **Fullstack Project**
+
+- 🤝 I’m looking for help with **Web Development Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/itssouray?tab=repositories](https://github.com/itssouray?tab=repositories)
+
 - 📝 I regularly write articles on [https://dev.to/thisissouray](https://dev.to/thisissouray)
 
 - 💬 Ask me about **react,blockchain**
 
 - 📫 How to reach me **itssouravgupta@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zlcPzxLHwZlLylKAy-mWHQ3k-m0gBKoB/view?usp=drive_link](https://drive.google.com/file/d/1zlcPzxLHwZlLylKAy-mWHQ3k-m0gBKoB/view?usp=drive_link)
 
 - ⚡ Fun fact **Algorithm: Word used by programmers when they don’t want to explain what they did.**
 
