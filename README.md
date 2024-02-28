@@ -1,7 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning AWS <br><br>👯 I’m looking to collaborate on Fullstack Project<br><br>👨‍💻 All of my projects are available at https://github.com/itssouray?tab=repositories<br><br>📝 I regularly write articles on https://dev.to/thisissouray<br><br>💬 Ask me about react,blockchain<br><br>📫 How to reach me itssouravgupta@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Bir0MRHUrLLl5J83btopPUveoCIW6_JP/view <br><br>⚡ Fun fact Algorithm: Word used by programmers when they don’t want to explain what they did.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sourav-gupta-70b83a20b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thisissouray) 
 
